@@ -1,0 +1,37 @@
+
+
+[
+
+{
+  "title":"The C programming language",
+  "author":"Brian W.Kerighan,Dennis M.Ritchie",
+  "publication_year":"1978",
+  "genre":"programming",
+  "read_status":"false",
+    "addedd_data":"2025- 3-18 7:52pm"
+  },
+  {
+    "title":"Life 3.0: Being Human in the Age of Artificial Intelligence",
+    "author":"Max Tegmark, Rob Shapiro",
+    "publication_year":"2017",
+    "genre":"Artificial Intelligence",
+    "read_status":"false",
+    "addedd_data":"2025- 3-18 7:58pm"
+  },
+  {
+    "title":Countdown To Zero Day"
+    "author":"Kim Zetter",
+    "publication_year":"2010",
+    "genre":"Programming",
+    "read_status":"false",
+    "addedd_data":"2025- 3-18-8:08pm"
+  },
+  {
+    "title":"Python Crash Course",
+    "author":"Eric Matthes",
+    "publication_year":2019,
+    "genre":"programming",
+    "read_status":"false",
+    "addedd_data":"2025- 3-18 8:12pm"
+  },
+]
